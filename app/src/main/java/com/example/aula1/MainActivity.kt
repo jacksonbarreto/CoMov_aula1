@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         // new feature...
 
         // document
+        
+        // changes from another developer
     }
 }
